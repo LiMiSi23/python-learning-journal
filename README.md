@@ -5,7 +5,7 @@ A repository to document my Python learning journey
 Hi, I'm Rocky. I'm from the Bay Area. I'm planning to double in math and computer science. I love swimming, card games, and video games. I have learned Python, Java, and other programming languages in mathematics, such as R and MATLAB. I'm currently learning C++ in West Valley, too. I would like to become a data scientist.
 
 #  Goals for This Course
-I want to improve my skills in solving more complex coding problems.
+I want to improve my skills in solving more complex coding problems. I wish I could acquire skills for me to complete a bigger project and suceed in future programing courses.
 
 #  My First Python Program
 ```python
